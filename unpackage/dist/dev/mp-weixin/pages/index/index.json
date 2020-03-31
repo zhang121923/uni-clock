@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "闹钟",
+  "usingComponents": {
+    "clock": "/components/clock/index",
+    "todo-list": "/components/todoList/index"
+  }
+}
